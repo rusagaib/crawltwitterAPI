@@ -4,6 +4,12 @@
   * crawling tweet berdasarkan mention dari @username (@Telkomsel)
   * https://github.com/rusagaib/crawltwitterAPI/
 
+### Buy me some coffe :)
+  * https://ko-fi.com/rusagaib
+
+### Sawer ngab :)
+  * https://saweria.co/rusagaib
+
 ### 1. Buat virtual environment
 > * python3 -m venv name_of_env
 * atau
